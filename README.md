@@ -7,7 +7,7 @@ En el siguiente apretado, busque noticias del Barcelona en la Supercopa de la gr
 En la siguiente, busque la noticia del partido de Barça en la copa del rey.
 En este apartado, comencé cambiando el fondo y el título, va a ir de los últimos partidos de la Copa del Rey.
 Cada apartado hablará de cada partido sucedido en la Copa, con un poco de texto que es un breve resumen del partido y una imagen.
-Para finalizar el último apartado, instalé un mapa para que en la página web(Hello Dolly), se pueda observar en que campo de futbol de jugo ese partido.
+Para finalizar el último apartado, instalé un mapa para que en la página web(OSM), se pueda observar en que campo de futbol de jugo ese partido.
 Después de instalar el mapa, lo activo y copie el enlace donde quería poner el mapa.
 Luego busque la localización del estadio de futbol.
 Para finalizar este blog, hay unos enlaces que se dirigen a las redes sociales de Marca, que habla sobre las noticias de futbol.
