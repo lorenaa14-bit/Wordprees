@@ -15,3 +15,4 @@ En el siguiente blog, habla sobre los partidos de la Champions League.
 Cada apartado habla de un partido de Champions diferente, con un breve resumen y una imagen de cada apartado.
 Hay un formulario al final del blog, con un enlace, donde te lleva al formulario co unas preguntas, para que ouedas trabajar con nosotros. 
  Hay nos enlaces a las redes sociales de la competición de la Champions League.
+$table_prefix = 'wp_',
