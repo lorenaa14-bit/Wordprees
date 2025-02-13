@@ -13,4 +13,5 @@ Luego busque la localización del estadio de futbol.
 Para finalizar este blog, hay unos enlaces que se dirigen a las redes sociales de Marca, que habla sobre las noticias de futbol.
 En el siguiente blog, habla sobre los partidos de la Champions League.
 Cada apartado habla de un partido de Champions diferente, con un breve resumen y una imagen de cada apartado.
-Para finalizar el blog, hay nos enlaces a las redes sociales de la competición de la Champions League.
+Hay un formulario al final del blog, con un enlace, donde te lleva al formulario co unas preguntas, para que ouedas trabajar con nosotros. 
+ Hay nos enlaces a las redes sociales de la competición de la Champions League.
